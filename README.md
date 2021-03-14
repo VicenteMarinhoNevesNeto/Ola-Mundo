@@ -12,3 +12,5 @@ Esta outra linha, eu comittei pelo VS Code e farei o push pelo VS Code também.
 Commitando pelo GitHub Desktop.
 
 Mais um commit pelo GitHub Desktop!
+
+Esta linha foi adicionada pelo GitHub diretamente.
