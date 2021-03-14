@@ -6,3 +6,5 @@
 Essa linha, eu adicionei diretamente do site do Git Hub!
 
 Essa linha, eu adicionei diretamente do VS Code.
+
+Esta outra linha, eu comittei pelo VS Code e farei o push pelo VS Code também.
